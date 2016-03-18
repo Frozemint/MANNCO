@@ -1,0 +1,18 @@
+body {
+    color:black;
+    font-family:arial;
+    font-size:160%;
+    text-align: center;
+}
+h2 {
+	display: inline;
+}
+td {
+	display: inline;
+}
+
+div {
+	display:inline;
+} span{
+	font-size: 65%;
+}
